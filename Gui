@@ -157,8 +157,8 @@ function Kavo.CreateLib(kavName, themeList)
         themeList = themeStyles.LightTheme
     elseif themeList == "BloodTheme" then
         themeList = themeStyles.BloodTheme
-    elseif themeList == "GrapeTheme" then
-        themeList = themeStyles.GrapeTheme
+    elseif themeList == "Lucky" then
+        themeList = themeStyles.Lucky
     elseif themeList == "Ocean" then
         themeList = themeStyles.Ocean
     elseif themeList == "Midnight" then
